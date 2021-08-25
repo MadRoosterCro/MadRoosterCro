@@ -1,5 +1,4 @@
 ## Hi there, I'm Dario - aka MadRoosterCro👋
----
 ### I'm a Friend, Developer, Cyclist and Occasional gamer!!
 <br />
 
