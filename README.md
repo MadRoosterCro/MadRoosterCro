@@ -1,7 +1,7 @@
 ## Hi there, I'm Dario - aka MadRoosterCro👋
 ### I'm a Friend, Developer, Cyclist and Occasional gamer!!
 <br />
-
+---
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Create a free workshop/course for future developers!
