@@ -3,6 +3,8 @@
 <br />
 <br />
 
+---
+
 ## I'm a Friend, Developer, Cyclist and Occasional gamer!!
 
 - 🌱 I’m currently learning everything 🤣
