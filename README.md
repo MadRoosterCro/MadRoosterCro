@@ -1,11 +1,7 @@
 ## Hi there, I'm Dario - aka MadRoosterCro👋
-
-<br />
-<br />
-
 ---
-
 ### I'm a Friend, Developer, Cyclist and Occasional gamer!!
+<br />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
