@@ -40,6 +40,6 @@ _...a friend, developer, cyclist and occasional gamer!!_
 
 ---
 
-[youtube]: https://www.youtube.com/channel/UCQnNxbMSLlIsn1kzC3hV4lQ/?target=_blank
-[instagram]: https://www.instagram.com/bogec_bistricki/?target=_blank
-[linkedin]: https://www.linkedin.com/in/dario-car/?target=_blank
+[youtube]: https://www.youtube.com/channel/UCQnNxbMSLlIsn1kzC3hV4lQ
+[instagram]: https://www.instagram.com/bogec_bistricki/
+[linkedin]: https://www.linkedin.com/in/dario-car/
