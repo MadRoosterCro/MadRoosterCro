@@ -9,7 +9,7 @@ _...a friend, developer, cyclist and occasional gamer!!_
 
 ### Connect with me:
 
-[<img target="_blank" align="left" alt="MadRoosterCro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MadRoosterCro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MadRoosterCro | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MadRoosterCro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -40,6 +40,6 @@ _...a friend, developer, cyclist and occasional gamer!!_
 
 ---
 
-[youtube]: https://www.youtube.com/channel/UCQnNxbMSLlIsn1kzC3hV4lQ
-[instagram]: https://www.instagram.com/bogec_bistricki
-[linkedin]: https://www.linkedin.com/in/dario-car
+[youtube]: https://www.youtube.com/channel/UCQnNxbMSLlIsn1kzC3hV4lQ/?target=_blank
+[instagram]: https://www.instagram.com/bogec_bistricki/?target=_blank
+[linkedin]: https://www.linkedin.com/in/dario-car/?target=_blank
