@@ -40,8 +40,8 @@ _...a friend, developer, cyclist and occasional gamer!!_
 
 ---
 
-![](https://github.com/madroostercro/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/madroostercro/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/MadRoosterCro/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/MadRoosterCro/github-stats/blob/master/generated/languages.svg)
 
 
 
