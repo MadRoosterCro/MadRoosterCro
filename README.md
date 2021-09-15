@@ -4,7 +4,7 @@ _...a friend, developer, cyclist and occasional gamer!!_
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Create a free workshop/course for future developers!
+- 🥅 2021 Goals: Research DevOps and keep learning!
 - ⚡ Fun fact: I really love bicycles and going on long rides!
 
 ### Connect with me:
