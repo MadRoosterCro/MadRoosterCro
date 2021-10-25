@@ -39,8 +39,8 @@ _...a friend, developer, cyclist and occasional gamer!!_
 <br />
 
 ---
-![](https://github.com/MadRoosterCro/my_stats/blob/master/generated/overview.svg)
-![](https://github.com/MadRoosterCro/my_stats/blob/master/generated/languages.svg)
+![](https://github.com/MadRoosterCro/RoosterStats/blob/master/generated/overview.svg)
+![](https://github.com/MadRoosterCro/RoosterStats/blob/master/generated/languages.svg)
 
 [youtube]: https://www.youtube.com/channel/UCQnNxbMSLlIsn1kzC3hV4lQ
 [instagram]: https://www.instagram.com/bogec_bistricki/
