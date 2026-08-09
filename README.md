@@ -2,7 +2,7 @@
 
 Software engineer and consultant in Zagreb, Croatia. I build software and companies.
 
-I run **[Kotei d.o.o.](https://www.kotei.hr)**, and through it I work with product teams as a tech lead, engineering manager, or senior IC — usually on greenfield builds, architecture, and the delivery process around them. Alongside the client work I'm building ventures of my own: Foramea, Autogram, Kota, and Helion.
+I run **[Kotei d.o.o.](https://www.kotei.hr)**, and through it I work with product teams as a tech lead, engineering manager, or senior IC — usually on greenfield builds, architecture, and the delivery process around them. Alongside the client work I'm building ventures of my own.
 
 I take products end to end — data model, interface, and the pipeline that ships them. The language is a tool choice, not an identity; lately the work has run through Next.js, React Native, Node, Postgres, Mongo, AWS, Cloudflare, and Terraform.
 
