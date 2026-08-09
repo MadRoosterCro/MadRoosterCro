@@ -12,11 +12,7 @@ I take products end to end — data model, interface, and the pipeline that ship
 - **Foramea** — furthest along of the ventures: practice management software for dental clinics. Quietly in the oven. 🦷
 - Client work through Kotei — most recently leading the native mobile effort at [BreezeSim](https://breezesim.com).
 
-### Previously
-
-Engineering Manager at [Banzai](https://banzai.io) · Senior Engineer at [Tiketti](https://www.tiketti.fi) · Team Lead at VytalAssets · Principal Engineer at YieldBricks · earlier fintech and web3 work through BitLegion, services at Serapion, and five years of client work at 123 Design.
-
-Before software, a decade in the Croatian NGO sector — youth work, volunteering coordination, and EU project funding.
+Full work history lives on [kotei.hr](https://www.kotei.hr).
 
 ### Elsewhere
 
