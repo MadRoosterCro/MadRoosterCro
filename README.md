@@ -10,9 +10,8 @@ I take products end to end — data model, interface, and the pipeline that ship
 
 - **Specline** — a spec-driven development toolchain. Turns a request into durable requirements, decisions, plans, code, tests, and review evidence, running that workflow across several models with a human at the decisions that matter.
 - **Foramea** — furthest along of the ventures: practice management software for dental clinics. Quietly in the oven. 🦷
-- Client work through Kotei — most recently leading the native mobile effort at [BreezeSim](https://breezesim.com).
 
-Full work history lives on [kotei.hr](https://www.kotei.hr).
+Client work and full history live on [kotei.hr](https://www.kotei.hr).
 
 ### Elsewhere
 
