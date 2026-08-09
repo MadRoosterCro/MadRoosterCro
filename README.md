@@ -10,7 +10,7 @@ I take products end to end — data model, interface, and the pipeline that ship
 
 - **Specline** — a spec-driven development toolchain. Turns a request into durable requirements, decisions, plans, code, tests, and review evidence, running that workflow across several models with a human at the decisions that matter.
 - **Foramea** — furthest along of the ventures: practice management software for dental clinics. Quietly in the oven. 🦷
-- **Autogram** — a Croatian car marketplace. A joint effort with [Tomislav Bukal](https://github.com/emailodroid), who has carried most of the build; I named it and refactor a lot. 🚗
+- **Autogram** — a Croatian car marketplace, built together with [Tomislav Bukal](https://github.com/emailodroid). 🚗
 - **Helion** — the newest one, and the first that isn't only software: solar farms. Still mostly a sketch. ☀️
 
 Client work and full history live on [kotei.hr](https://www.kotei.hr).
