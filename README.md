@@ -2,7 +2,7 @@
 
 Software engineer and consultant in Zagreb, Croatia. I build software and companies.
 
-I run **[Kotei d.o.o.](https://www.kotei.hr)**, and through it I work with product teams as a tech lead, engineering manager, or senior IC — usually on greenfield builds, architecture, and the delivery process around them. Alongside the client work I'm building ventures of my own.
+I work with product teams as a tech lead, engineering manager, or senior IC — usually on greenfield builds, architecture, and the delivery process around them. Alongside the client work I'm building ventures of my own.
 
 I take products end to end — data model, interface, and the pipeline that ships them. The language is a tool choice, not an identity; lately the work has run through Next.js, React Native, Node, Postgres, Mongo, AWS, Cloudflare, and Terraform.
 
@@ -10,6 +10,7 @@ I take products end to end — data model, interface, and the pipeline that ship
 
 - **Specline** — a spec-driven development toolchain. Turns a request into durable requirements, decisions, plans, code, tests, and review evidence, running that workflow across several models with a human at the decisions that matter.
 - **Foramea** — furthest along of the ventures: practice management software for dental clinics. Quietly in the oven. 🦷
+- **Autogram** — a Croatian car marketplace. A joint effort with [Tomislav Bukal](https://github.com/emailodroid), who has carried most of the build; I named it and refactor a lot. 🚗
 - **Helion** — the newest one, and the first that isn't only software: solar farms. Still mostly a sketch. ☀️
 
 Client work and full history live on [kotei.hr](https://www.kotei.hr).
