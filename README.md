@@ -19,6 +19,6 @@ Client work and full history live on [kotei.hr](https://www.kotei.hr).
 
 Bicycles 🚲, cooking, hiking, and a reading list that keeps outgrowing me.
 
-> Most public repos here are older learning projects and tryouts. Current work lives in private repos and with clients.
+> Most of what I build now lives in private repos and with clients, so it's quiet out here.
 
 [kotei.hr](https://www.kotei.hr) · [LinkedIn](https://www.linkedin.com/in/dario-car/) · [Instagram](https://www.instagram.com/bogec_bistricki/) · dario.car.kz@gmail.com
