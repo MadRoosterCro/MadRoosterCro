@@ -2,9 +2,9 @@
 
 Software engineer and consultant in Zagreb, Croatia. I build software and companies.
 
-I run **[Kotei d.o.o.](https://www.kotei.hr)**, and through it I work with product teams as a tech lead, engineering manager, or senior IC — usually on greenfield builds, frontend architecture, and the delivery process around them. Alongside the client work I'm building ventures of my own: Foramea, Autogram, Kota, and Helion.
+I run **[Kotei d.o.o.](https://www.kotei.hr)**, and through it I work with product teams as a tech lead, engineering manager, or senior IC — usually on greenfield builds, architecture, and the delivery process around them. Alongside the client work I'm building ventures of my own: Foramea, Autogram, Kota, and Helion.
 
-Mostly TypeScript: Next.js, React and React Native, Node. Comfortable in the infrastructure around it too — AWS, Cloudflare, Terraform, Postgres, Mongo.
+I take products end to end — data model, interface, and the pipeline that ships them. The language is a tool choice, not an identity; lately the work has run through Next.js, React Native, Node, Postgres, Mongo, AWS, Cloudflare, and Terraform.
 
 ### Currently
 
@@ -14,7 +14,7 @@ Mostly TypeScript: Next.js, React and React Native, Node. Comfortable in the inf
 
 ### Previously
 
-Engineering Manager at [Banzai](https://banzai.io) · Senior Engineer at [Tiketti](https://www.tiketti.fi) · Frontend Team Lead at VytalAssets · Principal Engineer at YieldBricks · earlier fintech and web3 work through BitLegion, back-end at Serapion, and five years of client web development at 123 Design.
+Engineering Manager at [Banzai](https://banzai.io) · Senior Engineer at [Tiketti](https://www.tiketti.fi) · Team Lead at VytalAssets · Principal Engineer at YieldBricks · earlier fintech and web3 work through BitLegion, services at Serapion, and five years of client work at 123 Design.
 
 Before software, a decade in the Croatian NGO sector — youth work, volunteering coordination, and EU project funding.
 
