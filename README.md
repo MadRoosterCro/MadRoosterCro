@@ -12,7 +12,6 @@ I take products end to end — data model, interface, and the pipeline that ship
 - **Autogram** — a Croatian car marketplace, built together with [Tomislav Bukal](https://github.com/emailodroid). 🚗
 - **Helion** — the newest one, and the first that isn't only software: solar farms. Still mostly a sketch. ☀️
 
-Client work and full history live on [kotei.hr](https://www.kotei.hr).
 
 ### Elsewhere
 
@@ -20,4 +19,4 @@ Bicycles 🚲, cooking, hiking, and a reading list that keeps outgrowing me.
 
 > Most of what I build now lives in private repos and with clients, so it's quiet out here.
 
-[kotei.hr](https://www.kotei.hr) · [LinkedIn](https://www.linkedin.com/in/dario-car/) · [Instagram](https://www.instagram.com/bogec_bistricki/) · dario.car.kz@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dario-car/) · [Instagram](https://www.instagram.com/bogec_bistricki/) · dario.car.kz@gmail.com
